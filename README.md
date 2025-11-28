@@ -62,9 +62,11 @@ endmodule
  Developed by: KARKIE F  Register Number:25016839
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 <img width="966" height="557" alt="image" src="https://github.com/user-attachments/assets/18ece763-40c9-48e8-80fc-83c75aefe810" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 <img width="422" height="165" alt="image" src="https://github.com/user-attachments/assets/07d1b68a-5cfa-45ba-b993-c3e75eae5028" />
 
 **RESULTS**:
